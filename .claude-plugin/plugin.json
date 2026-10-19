@@ -1,0 +1,6 @@
+{
+  "name": "limits-band",
+  "version": "0.1.0",
+  "description": "Zeigt Rate-Limits, Kontextauslastung und Kosten über dem Eingabefeld",
+  "types": "./types/index.d.ts"
+}
